@@ -8,7 +8,7 @@ Built with **React.js**, this application focuses on clean UI, real-time balance
 
 ## 🚀 Live Demo
 
-👉 [https://your-live-link-here.com](https://your-live-link-here.com)
+👉 [https://spendwise-finance.netlify.app/](https://spendwise-finance.netlify.app/)
 
 ---
 
@@ -45,7 +45,7 @@ Built with **React.js**, this application focuses on clean UI, real-time balance
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spendwise.git
+git clone https://github.com/RishroJ/spendwise.git
 ```
 
 ### Navigate into the project
