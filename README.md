@@ -14,23 +14,23 @@ Built with **React.js**, this application focuses on clean UI, real-time balance
 
 ## ✨ Features
 
-* ✅ Add income and expense transactions
-* ✅ Delete transactions instantly
-* ✅ Real-time balance calculation
-* ✅ Persistent data using LocalStorage
-* ✅ Clean and modern fintech UI
-* ✅ Responsive design
-* ✅ Component-based architecture
+- ✅ Add income and expense transactions
+- ✅ Delete transactions instantly
+- ✅ Real-time balance calculation
+- ✅ Persistent data using LocalStorage
+- ✅ Clean and modern fintech UI
+- ✅ Responsive design
+- ✅ Component-based architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **React.js** — Frontend library
-* **Context API** — Global state management
-* **JavaScript (ES6+)**
-* **CSS3**
-* **LocalStorage** — Data persistence
+- **React.js** — Frontend library
+- **Context API** — Global state management
+- **JavaScript (ES6+)**
+- **CSS3**
+- **LocalStorage** — Data persistence
 
 ---
 
@@ -70,20 +70,20 @@ npm start
 
 ## 🎯 What I Learned
 
-* Managing global state using Context API
-* Building reusable React components
-* Handling user input and form validation
-* Persisting data with LocalStorage
-* Designing production-style UI
+- Managing global state using Context API
+- Building reusable React components
+- Handling user input and form validation
+- Persisting data with LocalStorage
+- Designing production-style UI
 
 ---
 
 ## 📌 Future Improvements
 
-* 📊 Expense analytics with charts
-* 🌙 Dark mode
-* 🔐 User authentication
-* ☁️ Cloud database integration
+- 📊 Expense analytics with charts
+- 🌙 Dark mode
+- 🔐 User authentication
+- ☁️ Cloud database integration
 
 ---
 
