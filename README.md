@@ -36,7 +36,7 @@ Built with **React.js**, this application focuses on clean UI, real-time balance
 
 ## 📸 Screenshots
 
-![SpendWise UI](./screenshot.png)
+![SpendWise UI](./Screenshot.png)
 
 ---
 
